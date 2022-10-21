@@ -6,7 +6,7 @@
  *
  * Plugin Name: Elementor CustomSkins
  * Description: Custom Skins for Posts Widget
- * Plugin URI:  #
+ * Plugin URI:  https://github.com/habibimroncn/elementor-custom-skins
  * Version:     1.0.0
  * Author:      Habib Nugroho
  * Author URI:  https://habibimroncn.github.io
